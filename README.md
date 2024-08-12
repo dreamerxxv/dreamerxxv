@@ -1,10 +1,10 @@
 ## Hi there 👋 Thank You For Visiting My Github Profile
 
-<h3 align="center">Tech Enthusias</h3>
+<h3 align="center">I' am a Tech Enthusias</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamerxxv&label=Profile%20views&color=0e75b6&style=flat" alt="dreamerxxv" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me On Dev.to:</h3>
 <p align="left">
 <a href="https://dev.to/@dreamerxxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@dreamerxxv" height="30" width="40" /></a>
 </p>
